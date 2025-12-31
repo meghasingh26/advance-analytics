@@ -1,98 +1,99 @@
 # advance-analytics
-Data Analysis Project (Python)
+## Data Analysis Project (Python)
 Project Overview
-
+----------------------------------------------------------------------------------------------------------------------------------
 This project focuses on performing Exploratory Data Analysis (EDA) on a structured dataset using Python. The objective is to clean the data, analyze key patterns, and extract meaningful insights through statistical analysis and visualizations to support data-driven decision making.
 
-Objectives
+### Objectives
 
-Understand the structure and quality of the dataset
+* Understand the structure and quality of the dataset
 
-Perform data cleaning and preprocessing
+* Perform data cleaning and preprocessing
 
-Analyze important features and trends
+* Analyze important features and trends
 
-Visualize insights using charts and graphs
+* Visualize insights using charts and graphs
 
-Derive conclusions that support business or strategic decisions
+* Derive conclusions that support business or strategic decisions
 
-Dataset
+* Dataset
 
-The dataset contains multiple variables related to the domain under study
+* The dataset contains multiple variables related to the domain under study
 
-Includes both numerical and categorical features
+* Includes both numerical and categorical features
 
-Used for identifying patterns, trends, and relationships
+* Used for identifying patterns, trends, and relationships
 
 (Dataset is loaded and handled directly within the notebook)
 
-Tools and Technologies Used
+### Tools and Technologies Used
 
-Programming Language: Python
+* Programming Language: Python
 
-Libraries:
+* Libraries:
 
-pandas – data manipulation
+* pandas – data manipulation
 
-numpy – numerical operations
+* numpy – numerical operations
 
-matplotlib and seaborn – data visualization
+* matplotlib and seaborn – data visualization
 
-Environment: Google Colab
+*  Environment: Google Colab
 
-Project Workflow
+### Project Workflow
 
-Data Loading
+* Data Loading
 
-Imported the dataset using pandas
+* Imported the dataset using pandas
 
-Data Cleaning
+* Data Cleaning
 
-Handled missing values
+* Handled missing values
 
-Removed duplicates
+* Removed duplicates
 
-Corrected data types
+* Corrected data types
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Descriptive statistics
+* Descriptive statistics
 
-Distribution analysis
+* Distribution analysis
 
-Correlation analysis
+* Correlation analysis
 
-Data Visualization
+**Data Visualization**
 
-Bar charts
+1. Bar charts
 
-Line graphs
+2. Line graphs
 
-Histograms
+3. Histograms
 
-Heatmaps
+4. Heatmaps
 
-Insights and Observations
+**Insights and Observations**
 
-Identified key trends and patterns
+* Identified key trends and patterns
 
-Highlighted important variables influencing outcomes
+* Highlighted important variables influencing outcomes
 
-Key Insights
+**Key Insights**
 
-Discovered meaningful relationships between variables
+* Discovered meaningful relationships between variables
 
-Identified trends and outliers affecting overall performance
+* Identified trends and outliers affecting overall performance
 
-Provided visual summaries to make insights easy to understand
+* Provided visual summaries to make insights easy to understand
 
 (Insights are supported with visualizations inside the notebook)
-
-Conclusion
+---------------------------------------------------------------------------------------------------------------------------------------
+**Conclusion**
 
 This project demonstrates the practical application of data cleaning, exploratory data analysis, and visualization techniques using Python. It shows how raw data can be transformed into actionable insights for informed decision-making.
 
-Project Link
-
+========================================================================================================================================
+### Project Link
+========================================================================================================================================
 Google Colab Notebook:
 https://colab.research.google.com/drive/1uCDGxzJF4cr1zc1QLtCJKTyMw-jCuB_l
